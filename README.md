@@ -1,4 +1,9 @@
-## Olá sou o Ricardo Rosendo sou apaxonado por Teclogia 💻❤️!
+## Olá sou o Ricardo Rosendo (ELE/DELE)
+- 🧔🏽‍♂️24 Anos
+- ❤️  Apaxonado por tecnologia 💻
+- 👨🏽‍🎓   Formado em TADS
+- 🚀    Estudando em Full Stack Python
+
 <div align="center">
   <a href="https://github.com/RicardoRosendo98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RicardoRosendo98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
