@@ -2,7 +2,7 @@
 - 🧔🏽‍♂️25 Anos
 - ❤️  Apaxonado por tecnologia 💻
 - 👨🏽‍🎓   Formado em TADS
-- 🚀    Estudando em Full Stack Python
+- 🚀   Desenvolvedor Front-end
 
 <div align="center">
   <a href="https://github.com/RicardoRosendo98">
