@@ -1,5 +1,5 @@
 ## Olá sou o Ricardo Rosendo (ELE/DELE)
-- 🧔🏽‍♂️25 Anos
+- 🧔🏽‍♂️26 Anos
 - ❤️  Apaxonado por tecnologia 💻
 - 👨🏽‍🎓   Formado em TADS
 - 🚀   Desenvolvedor Front-end
